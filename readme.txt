@@ -6,7 +6,7 @@ Requires at least: 3.9
 Tested up to: 4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable Tag: 0.1
+Stable Tag: 0.1.1
 
 Easily supercharge your Woocommerce site with multilingual content by keeping Polylang and Woocommerce integrated.
 
@@ -28,5 +28,7 @@ Why was this plugin created?
 I got a lot multilingual Projects that involves Woocommerce and my best open source alternative is using Polylang. So i did this plugin to make Woocommerce work in combination with Polylang
 
 == Changelog ==
+= Version 0.1.1 =
+* Some Minor Changes
 = Version 0.1.0 =
 * Everything is new
