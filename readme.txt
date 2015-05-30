@@ -6,7 +6,7 @@ Requires at least: 3.9
 Tested up to: 4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable Tag: 0.1.1
+Stable Tag: 0.2
 
 Easily supercharge your Woocommerce site with multilingual content by keeping Polylang and Woocommerce integrated.
 
